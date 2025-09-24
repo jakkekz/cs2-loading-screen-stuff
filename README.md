@@ -1,11 +1,11 @@
 # cs2-loading-screen-stuff
-Semi automate the making of loading screen images, map icon and description. 
+Semi automate the making of loading screen images, [map icon](https://github.com/user-attachments/assets/d84b472b-f053-4845-a09b-124fed45b7c5) and [description](https://github.com/user-attachments/assets/3d67b00e-7d5a-4c10-85c3-e3e60606d188). 
 
 0. download `creator.exe` by right clicking creator.exe and choosing `Save link as...`
 
 1. create a folder (for example on your desktop), place `creator.exe` inside it. This is your "main" folder.
 
-2. convert your [map icon](https://github.com/vgalisson/csgo-map-icons) into a `svg file` !!! NOT all svg files are created equal and i recommend this one https://www.pngtosvg.com/ !!!
+2. convert your map icon into a `svg file` !!! NOT all svg files are created equal and i recommend this one https://www.pngtosvg.com/ !!!
 
 3. place the `svg` and `image files` (max 9) in the main folder (it will automatically convert other image formats to png 1080p)
 
