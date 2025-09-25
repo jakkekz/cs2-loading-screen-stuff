@@ -1,6 +1,7 @@
 # cs2-loading-screen-stuff
-Automate the making of loading screen images, [map icon](https://github.com/user-attachments/assets/d84b472b-f053-4845-a09b-124fed45b7c5) and [description](https://github.com/user-attachments/assets/3d67b00e-7d5a-4c10-85c3-e3e60606d188). 
+Automate the making of loading screen images, [map icon](https://github.com/user-attachments/assets/d84b472b-f053-4845-a09b-124fed45b7c5) and [description](https://github.com/user-attachments/assets/3d67b00e-7d5a-4c10-85c3-e3e60606d188).
 
+_shoutout [zer0.k](https://github.com/zer0k-z) and Gemini_
 1. Download `creator.exe` from the [latest release](https://github.com/jakkekz/cs2-loading-screen-stuff/releases/tag/latest)
 2. Place it in an empty folder
 3. In the folder include:
@@ -8,7 +9,7 @@ Automate the making of loading screen images, [map icon](https://github.com/user
    - one svg map icon
    - one txt file with the description text
 4. run `creator.exe`
-5. Ready! load the map (no recompile needed)
+5. Ready! Load the map (no recompile needed)
 
 
 [#WAD](https://steamcommunity.com/groups/ckzwad)
