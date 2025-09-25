@@ -365,7 +365,9 @@ def create_map_files():
     if svg_files_to_compile:
         compile_svg_files(game_root, svg_files_to_compile, map_name)
 
-    print("\nProcess completed.")
+    print("\nProcess completed.") 
+    time.sleep(3)
 
 if __name__ == "__main__":
+
     create_map_files()
