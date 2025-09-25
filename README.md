@@ -1,30 +1,14 @@
 # cs2-loading-screen-stuff
-Semi automate the making of loading screen images, [map icon](https://github.com/user-attachments/assets/d84b472b-f053-4845-a09b-124fed45b7c5) and [description](https://github.com/user-attachments/assets/3d67b00e-7d5a-4c10-85c3-e3e60606d188). 
+Automate the making of loading screen images, [map icon](https://github.com/user-attachments/assets/d84b472b-f053-4845-a09b-124fed45b7c5) and [description](https://github.com/user-attachments/assets/3d67b00e-7d5a-4c10-85c3-e3e60606d188). 
 
-0. download `creator.exe` by right clicking creator.exe and choosing `Save link as...`
-
-1. create a folder (for example on your desktop), place `creator.exe` inside it. This is your "main" folder.
-
-2. convert your map icon into a `svg file` !!! NOT all svg files are created equal and i recommend this one https://www.pngtosvg.com/ !!!
-
-3. place the `svg` and `image files` (max 9) in the main folder (it will automatically convert other image formats to png 1080p)
-
-4. create a `.txt` file with any name (not README.txt) and write your description in there. ("Loading..." cant be removed i think)
-
-5. RUN `creator.exe`
-
-6. it will create all the necessary files with the correct pathing.
-
-7. place the `panorama` folder directly into `content/csgo_addons/YOURADDON/`
-8. place the `maps` folder directly into `game/csgo_addons/YOURADDON/`
-
-9. open the "loading screen material" that was just made inside hammer for it to compile them to `.vtex_c` format. Theyll be named like `yourmapname_x_png.vmat`
-
-10. go to: `GAME/csgo_addons/YOURADDON/panorama/images/map_icons/screenshots/1080p` and remove the extra `_png` and `mumbo jumbo` before `.vtex_c`
-
-- for example: `kz_tikkaat_1_png_png_de8eb162.vtex_c` would be `kz_tikkaat_1_png.vtex_c`
-
-11. Ready! load the map (no recompile needed)
+1. Download `creator.exe` from the [latest release](https://github.com/jakkekz/cs2-loading-screen-stuff/releases/tag/latest)
+2. Place it in an empty folder
+3. In the folder include:
+   - all loading screen images (max 9)(should be converted to 16:9 png automatically)
+   - one svg map icon
+   - one txt file with the description text
+4. run `creator.exe`
+5. Ready! load the map (no recompile needed)
 
 
 [#WAD](https://steamcommunity.com/groups/ckzwad)
