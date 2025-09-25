@@ -5,10 +5,10 @@ _shoutout [zer0.k](https://github.com/zer0k-z) and Gemini_
 1. Download `creator.exe` from the [latest release](https://github.com/jakkekz/cs2-loading-screen-stuff/releases/tag/latest)
 2. Place it in an empty folder
 3. In the folder include:
-   - all loading screen images (max 9)(should be converted to 16:9 png automatically)
-   - one svg map icon
+   - **all loading screen images** (max 9)(should be converted to 16:9 png automatically)
+   - **one svg map icon**
       - not all svg images are equal (absolute vs relative coordinates), [this](https://www.pngtosvg.com/) converter is recommended
-   - one txt file with the description text
+   - **one txt file** with the description text
 4. run `creator.exe`
 5. Ready! Load the map
    - no recompile needed
