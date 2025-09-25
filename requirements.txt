@@ -1,0 +1,2 @@
+vdf @ git+https://github.com/solsticegamestudios/vdf.git
+pillow==11.3.0
