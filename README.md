@@ -13,7 +13,7 @@ _Shoutout [zer0.k](https://github.com/zer0k-z) and Gemini_
    - **One .txt file** with the description text _(Loading... is not removable as far as i know)_
 4. Run `creator.exe`
    - If you get a Defender popup click `More info` and `Run anyway`
-   - map name has to be the same as addon name
+   - Map name has to be the same as addon name
 6. Ready! Load the map
    - No recompile needed
    - Re-upload to workshop needed
