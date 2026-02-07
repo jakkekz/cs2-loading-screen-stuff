@@ -7,7 +7,7 @@ _Shoutout [zer0.k](https://github.com/zer0k-z) and Gemini_
 1. Download `creator.exe` from the [latest release](https://github.com/jakkekz/cs2-loading-screen-stuff/releases/tag/latest)
 2. Place it in an empty folder
 3. In the folder include:
-   - **All loading screen images** (max 9)(should be converted to 16:9 .png automatically)
+   - **All loading screen images** (2-9 images)(should be converted to 16:9 .png automatically)
    - **One .svg map icon**
       - Not all .svg images are equal (absolute vs relative coordinates), [this](https://www.pngtosvg.com/) converter is recommended
    - **One .txt file** with the description text _(Loading... is not removable as far as i know)_
